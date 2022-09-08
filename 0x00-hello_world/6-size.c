@@ -4,7 +4,7 @@
  * main - print string in print function
  *
  * Description: using the main function
- * this program prints size of various types
+ * this program prints size of "Programming is like building a multilingual puzzle
  * Return: 0
  */
 int main(void)
