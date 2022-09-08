@@ -1,1 +1,1 @@
-start c
+compiler
