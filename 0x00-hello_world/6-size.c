@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main print string in print function
+ * main - print string in print function
  *
  * Description: using the main function
  * this program prints size of various types
