@@ -1,10 +1,6 @@
-nclude <stdlib.h>
-
+#include <stdio.h>
 #include <time.h>
-
-/* more headers goes there */
-
-
+#include <stdio.h>
 
 /**
  * main - print the string in the printf function 
