@@ -2,14 +2,14 @@
 #include <time.h>
 #include <stdio.h>
 
-/** 
+/**
 * main - Entry point
-*
+* 
 * Return: Always 0 (Success)
-*/  
-void main()
+*/
+int main()
 {
-int n; 
+int n;
 
 srand(time(0));
 n = rand() - RAND_MAX / 2;
@@ -21,7 +21,7 @@ else if (n == 0)
 {
 printf("%d is zero\n", n);
 }
-else 
+else
 {
 printf("%d is negative", n);
 }
