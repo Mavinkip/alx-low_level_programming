@@ -1,8 +1,5 @@
 #include "main.h"
-/**
-*print_alphabet - print alphabets 
-*Return:0
-*/
+/*alphabets*/
 void print_alphabet(void)
 {
 char c;
