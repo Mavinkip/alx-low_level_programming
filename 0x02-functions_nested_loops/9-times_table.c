@@ -1,8 +1,5 @@
 #include "main.h"
-/**
- *times_table - prints table
- *Return: 0
- */
+/*Return: 0*/
 void times_table(void)
 {
 int num, mult, prod;
