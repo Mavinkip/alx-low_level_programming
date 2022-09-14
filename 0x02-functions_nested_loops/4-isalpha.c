@@ -1,8 +1,8 @@
 #include "main.h"
 /**
-*_isalpha - print upper or lower
-*@c: is the int used for the argument inthe function
-*Return: 0
+* _isalpha - print upper or lower
+* @c: is the int used for the argument inthe function
+* Return: 0
 */
 int _isalpha(int c)
 {
