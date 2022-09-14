@@ -1,7 +1,7 @@
 #include "main.h"
 /**
 *add - adds two numbers
-*@num1: is firs no 
+*@num1: is first no 
 *@num2: is second no
 *
 *Return: the result of addition
