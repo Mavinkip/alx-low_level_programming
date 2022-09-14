@@ -1,7 +1,11 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
-/*if code main-if fuction*/
+/**
+ * main - entry
+ *
+ *Return: 0
+ */
 int main(void)
 {
 int n;
