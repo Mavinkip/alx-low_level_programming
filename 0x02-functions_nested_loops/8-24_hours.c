@@ -5,9 +5,16 @@
 */
 void jack_bauer(void)
 {
-int t;
-for (t = '00:00'; t <= '23:00'; t++)
+int h;
+int m;
+
+for (h=0; h <= 23; h++)
 {
-_putchar(t);
+_putchar(h);
+}
+_putchar(':');
+for (m=0; m <= 59; m++)
+{
+_putchar(m);
 }
 }
