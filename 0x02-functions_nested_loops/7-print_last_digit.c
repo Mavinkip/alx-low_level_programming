@@ -11,6 +11,6 @@ if (last < 0)
 {
 last *= -1;
 _putchar(last + '0');
-return (last);
 }
+return (last);
 }
