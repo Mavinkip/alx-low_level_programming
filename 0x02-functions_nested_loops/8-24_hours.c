@@ -17,4 +17,5 @@ for (m=0; m <= 59; m++)
 {
 _putchar(m);
 }
+_putchar('\n');
 }
