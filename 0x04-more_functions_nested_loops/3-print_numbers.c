@@ -1,9 +1,9 @@
 #include <stdio.h>
 #include "main.h"
 /**
- *print_numbers - print 0-9
- *Return: 0
- */
+*print_numbers - print 0-9
+*Return: 0
+*/
 void print_numbers(void)
 {
 	int n;
