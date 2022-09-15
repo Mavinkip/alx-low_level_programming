@@ -21,8 +21,14 @@ void print_diagonal(int n)
 			{
 				continue;
 			}
+		else
+		{
 			_putchar('\n');
 		}
+		}
 	}
+	else
+	{
 	_putchar('\n');
+	}
 }
