@@ -1,12 +1,11 @@
 #include <stdio.h>
 /**
-*main - program that prints either 
+*main - prints number fizzbuzz or buzz`
 *Return: returns 0
 */
 int main(void)
 {
-        int num = 1;
-
+int num = 1;
 	while (num++ < 100)
 	{
 		if ((num % 3 == 0) && (num % 5 == 0))
