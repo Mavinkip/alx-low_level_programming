@@ -35,6 +35,6 @@ int main(void)
 			printf("%d ", num);
 		}
 	}
-	printf("\n");
+	_putchar('\n');
 	return (0);
 }
