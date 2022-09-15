@@ -2,8 +2,7 @@
 #include "main.h"
 /**
 *print_numbers - print 0-9
-*@n: is the int used inargument of the function
-*Return: 0
+*Return: nothing
 */
 void print_numbers(void)
 {
