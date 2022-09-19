@@ -1,20 +1,20 @@
 #include <stdio.h>
 #include "main.h"
 /**
- *_puts - prints a string
+ *void puts_half(char *str) a string
  * @str: string to print
  *
  * Description: prints a string
  * On success: returns no error
  */
-void _puts(char *str)
+void puts_half(char *str)
 {
-	int i = 0;
+	char *str = 0;
 
-	while (*(str + i)/2 != '\0')
+	while ((length_of_the_string - 1) /2 != '\0')
 	{
-		putchar(*(str + i));
-		i++;
+		putchar(str );
+		*str++;
 	}
 	putchar(10);
 }
