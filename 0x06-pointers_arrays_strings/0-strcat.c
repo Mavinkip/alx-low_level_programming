@@ -5,13 +5,20 @@
 *@src:string to contract
 *Return: return pointer to @dest
 */
-char *_strcat(char *dest, char *src)
+char*_strcat(char *dest, char *src)
 {
 
-	int index = 0, dest_len = 0;
+    char *ptr =dest;
 
-while (dest[index++])
-dest_len++;
-for (index = 0; scr[index]; index++)
-dest[dest_len++] = scr[index];
+    while (*ptr != 0)
+
+    ptr++;
+
+    while (*src ! = 0)
+
+    *ptr++ = *src++;
+
+    *ptr = 0;
+
+    return (dest);
 }
