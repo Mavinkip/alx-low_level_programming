@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * _stract -joins two strings
+ * _stract(char *dest, char *src) -joins two strings
  * @dest: copy to
  * @src: copy from
  *
