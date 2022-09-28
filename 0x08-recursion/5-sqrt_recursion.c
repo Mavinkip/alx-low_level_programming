@@ -32,13 +32,9 @@ int _sqrt(int x, int y)
 }
 
 /**
-
  * _sqrt_recursion - raiz cuadrada natural
-
  * @n: number radicando
-
  * Return: resultado
-
  */
 
 int _sqrt_recursion(int n)
