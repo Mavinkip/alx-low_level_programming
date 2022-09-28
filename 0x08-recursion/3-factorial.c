@@ -1,8 +1,7 @@
 #include "main.h"
 
 /**
-
- * factorial - return the factorial  of n
+ * factorial - find factorial of n
  * @n: parameter
  *
  * Return: end program
