@@ -3,7 +3,6 @@
 /**
 
  * factorial - return the factorial  of n
- *
  * @n: parameter
  *
  * Return: end program
