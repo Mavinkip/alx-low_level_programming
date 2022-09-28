@@ -6,6 +6,7 @@
 */
 void _puts_recursion(char *s)
 {
+	char s;
 _puts_recursion("print a recution string");
 return (0);
 }
