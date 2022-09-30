@@ -35,22 +35,13 @@ bool isNumeric(char *s)
 
 }
 
-
-
 /**
-
  * main - Entry Point
-
  *
-
  * @argc: arg counter
-
  * @argv: arguments array
-
  *
-
  * Return: Always 0 (Success)
-
  */
 
 int main(int argc, char *argv[])
