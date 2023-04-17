@@ -1,0 +1,1 @@
+O(n) is the worst case beacause it the algorithm will check if all the elements in the array is equal to the code before finding the value

@@ -1,0 +1,2 @@
+size n is O(log n) is the worst case for it divides the arry into half as it search and eliminates
+the  array each time
