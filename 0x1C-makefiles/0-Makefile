@@ -1,2 +1,2 @@
 all:
-gcc school 
+gcc.c school.c 
