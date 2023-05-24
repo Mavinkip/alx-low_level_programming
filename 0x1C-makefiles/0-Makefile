@@ -1,0 +1,3 @@
+all:
+gcc school -o run
+./run
