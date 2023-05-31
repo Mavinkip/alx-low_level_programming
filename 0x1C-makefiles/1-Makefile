@@ -3,4 +3,4 @@ all:
 
 cc = gcc
 src =  main.c school.c
-    cc src -o school
+    $(cc) $(src) -o school
