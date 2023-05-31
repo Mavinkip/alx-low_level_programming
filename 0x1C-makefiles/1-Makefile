@@ -1,7 +1,7 @@
-# using variables
-cc = gcc
-src =  main.c school.c
+CC = gcc
+SRC = main.c school.c
 
-all: 
+all: open
 
-        $(cc) $(src) -o school
+open: $(SRC)
+	$(CC) $(SRC) -o school
