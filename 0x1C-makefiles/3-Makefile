@@ -1,0 +1,12 @@
+CC = gcc
+SRC = main.c school.c
+OBJ = $(SRC:%.c=%.o)
+NAME = school
+RM =rm -rf
+
+all: open
+
+open: $(OBJ)
+	$(CC) $(OBJ) -o $(NAME)
+clean:
+	$(RM) ./*~ $(NAME)
