@@ -1,0 +1,6 @@
+# using variables
+all:
+
+cc = gcc
+src =  main.c school.c
+    cc src -o school
