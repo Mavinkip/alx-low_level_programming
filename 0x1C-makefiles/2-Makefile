@@ -6,7 +6,7 @@ OBJ = main.o school.o
 all: $(OBJ)
     
 	$(CC) $(OBJ) -o $(NAME)
-school.0:school.c main.o
+school.o:school.c main.o
 	$(CC) -c school.c
-main.o:$main.c
+main.o:main.c
 	$(CC) -c main.c
