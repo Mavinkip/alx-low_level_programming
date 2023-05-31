@@ -1,6 +1,6 @@
 # using variables
 cc = gcc
 src =  main.c school.c
-all:
-
+all: p
+p:$(src)
     $(cc) $(src) -o school
